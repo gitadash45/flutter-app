@@ -1,0 +1,30 @@
+class Statictext {
+  static const USERNAME = 'Username';
+  static const PHONENUMBER = 'Phone Number';
+  static const DOB = 'Date Of Birth';
+  static const HOBBY = 'Hobby';
+  static const EDITPROFILE = 'Edit Profile';
+  static const PROFILE = 'Profile';
+  static const EMAIL = 'Email';
+  static const PASSWORD = 'PAssword';
+  static const GENDER = 'Gender';
+  static const EDIT = 'Edit';
+  static const HOME = 'Home Page';
+  static const LOGIN = 'Login';
+  static const SIGNUP = 'Sign Up';
+  static const ALREADYHAVEACCOUNT = 'Already have account? Login';
+  static const DONTHAVEACCOUNT = 'Dont have an account? Sign Up';
+  static const ENTERUSERNAME = 'Enter the username';
+  static const NODATESELECTED = 'No date selected';
+  static const PRODUCTDETAIL = 'Product Detail';
+  static const ENTERDIGIT = 'Enter 6 digit of password';
+  static const ENTERVALIDEMAIL = 'Enter valid Email';
+  static const HOBBIES = 'Hobbies';
+  static const ADDHOBBIES = 'Add Your Hobby';
+  static const SELECTTHEHOBBY = 'Select the Hobby0';
+  static const FEMALE = 'female';
+  static const MALE = 'male';
+  static const PICKDATE = 'pick Date';
+  static const ENTERPHONENUMBER = 'Enter Phone number';
+  static const HOMEPAGE = 'Home Page';
+}

@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"dj-chatapp","appId":"1:249127507757:android:3039da6de044c6fd2825a4","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"dj-chatapp","configurations":{"android":"1:249127507757:android:3039da6de044c6fd2825a4","ios":"1:249127507757:ios:0e2d134e14510fe32825a4"}}}}}}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "249127507757",
+    "project_id": "dj-chatapp",
+    "storage_bucket": "dj-chatapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249127507757:android:3039da6de044c6fd2825a4",
+        "android_client_info": {
+          "package_name": "com.example.getfireapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ_GmpP7uP5jdh6zyh1aJ8NmnlbPgEF-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249127507757:android:afee2fcb4a1d2a912825a4",
+        "android_client_info": {
+          "package_name": "com.example.section_14_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ_GmpP7uP5jdh6zyh1aJ8NmnlbPgEF-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
